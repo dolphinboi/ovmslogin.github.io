@@ -5,8 +5,8 @@
 <head>
 <body>
   
-  <a href="index.html" target=_blank title=">:)">
-  </a>a
+  <a href="https://dolphinboi.github.io/ovmslogin.github.io/">
+  </a>
   
 </body>
 </head>
